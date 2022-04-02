@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @PoJosh
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, Python, and JavaScript. Self taught so far.
-- 💞️ I’m looking forward to collaborate anywhere, as long as I can have the opportunity of learning about frameworks and coding work environment from first hand experience.
-- 📫 How to reach me:
-  sebastian.alcaino.r@icloud.com
+- 日本語を学ぶことに興味があります。
 
 <!---
 PoJosh/PoJosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
